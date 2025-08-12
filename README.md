@@ -1,1 +1,1 @@
-repository I use for web shareing
+repository I use for web sharing
